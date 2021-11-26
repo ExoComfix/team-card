@@ -1,3 +1,3 @@
-# team-card
+# Team Card
 
-Team card design with CSS and HTML5 
+Bir projede çalışanları tanıtmak adına kullanılabilecek bir takım kartı çalışması.
